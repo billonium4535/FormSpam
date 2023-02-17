@@ -1,0 +1,8 @@
+README.txt
+setup.py
+GoogleFormSpam/SpamForm.py
+GoogleFormSpam/__init__.py
+GoogleFormSpam.egg-info/PKG-INFO
+GoogleFormSpam.egg-info/SOURCES.txt
+GoogleFormSpam.egg-info/dependency_links.txt
+GoogleFormSpam.egg-info/top_level.txt

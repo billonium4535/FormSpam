@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: GoogleFormSpam
+Version: 0.0.1
+Summary: Spam google forms
+Home-page: UNKNOWN
+Author: Joe
+Author-email: alex.riddell88@gmail.com
+License: UNKNOWN
+Description: This is a package to spam google forms with responses
+Keywords: python,Google
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows

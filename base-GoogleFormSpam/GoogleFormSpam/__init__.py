@@ -1,0 +1,1 @@
+from .SpamForm import SpamForm
